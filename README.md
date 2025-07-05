@@ -2,7 +2,7 @@
 
 ## 📚 Descrição do Projeto
 
-Este projeto simula um **sistema de gestão de funcionários**, utilizando conceitos de **programação orientada a objetos (POO)** em Java. O sistema permite cadastrar diferentes tipos de funcionários — **horistas** e **mensalistas** — e calcular seus pagamentos de forma polimórfica.
+Este projeto simula um **sistema de gestão de funcionários**, utilizando conceitos de **programação orientada a objetos (POO)** em Java. O sistema permite cadastrar diferentes tipos de funcionários(**horistas** e **mensalistas**) e calcular seus pagamentos de forma polimórfica.
 
 ---
 
